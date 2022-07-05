@@ -1,0 +1,9 @@
+.Polaris {
+  &-Page {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(246, 246, 247, 1);
+    align-items: center;
+    justify-content: space-between;
+  }
+}
